@@ -1,12 +1,8 @@
 ---
-path: "/exercise-0"
 title: "hjkl-x"
-order: "69A"
-section: "Misc Content"
+order: "67A"
 description: "This is the first exercise to try out."
 ---
-## NOTE
-To use the exercises, please curl the file to your machine and edit it with vim.
 
 ## Exercise 0: Basic movement, h, j, k, l, w, b
 ### press j to go down
@@ -14,7 +10,6 @@ To use the exercises, please curl the file to your machine and edit it with vim.
 ### press l to follow the line
 ---------------------------o " press x to delete the o
                              " press j to go to the next action
-
 
 
 
@@ -28,7 +23,7 @@ To use the exercises, please curl the file to your machine and edit it with vim.
         +------+
                |
                |
-               +------
+               +------o
 
 ### press l and j and h to follow the line and x to delete the o
 -+

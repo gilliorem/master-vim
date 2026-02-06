@@ -1,8 +1,6 @@
 ---
-path: "/some-javascript"
 title: "some javascript"
-order: "72A"
-section: "Misc Content"
+order: "67D"
 description: "This is the first exercise to try out."
 ---
 

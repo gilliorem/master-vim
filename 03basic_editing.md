@@ -1,12 +1,9 @@
 ---
-path: "/exercise-1"
 title: "dyp"
-order: "70A"
+order: "67C"
 section: "Misc Content"
 description: "This is the basic movement and editing of text"
 ---
-## NOTE
-To use the exercises, please curl the file to your machine and edit it with vim.
 
 ## Exercise 1: Basic Editing
 ### Delete a line with dd
