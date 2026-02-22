@@ -124,6 +124,9 @@ int sum(int a, b)
 
 2.5	QUESTIONS:
 	How do I go move backwards word by word ?
+		to move forwards word by word I use 'w' like word.
+		to move backwards word by word, I use 'b' like backwards.
+		much easier thant CTRL-right-arrow, right ?
 	How do I jump at the end of a word ?	
 	How do I switch back to normal mode ?
 	
